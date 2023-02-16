@@ -1,0 +1,17 @@
+.header {
+  &__Container {
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 62px;
+    border-bottom: 1px solid #eee;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+
+  &__Logo__Wrap {
+  }
+}
